@@ -4,6 +4,8 @@
 
 *.mat
 *.dat
+*.pdf
+*.docx
 
 ### MATLAB ###
 # Windows default autosave extension
